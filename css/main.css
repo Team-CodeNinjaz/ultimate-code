@@ -3,7 +3,11 @@ body{
   margin: 0px;
   text-align: center;
   color: white;
+  background-image: url("https://res.cloudinary.com/ladydondammy/image/upload/v1568671173/Welcome_ml8vgr.png");
+  background-size: 100%;
+
 }
+
 
 /* FORM AREA START HERE */
 .main-div{
